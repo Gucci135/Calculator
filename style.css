@@ -1,0 +1,34 @@
+/* body{
+    background-color:white;
+} */
+
+td, th {
+    border-collapse: collapse;
+    border: 1px solid red;
+    /* height: 100px; */
+    
+}
+
+td:hover{
+    background-color: rgb(128, 190, 240);
+    color: white;
+}
+/* th{
+    width: 100%;
+} */
+
+/* #calculatorValue{
+    width: 100%;
+} */
+
+#topOfCalc{
+    text-align: right;
+}
+
+table{
+
+    width: 25%;
+    height: 250px;
+    text-align: center;
+    border: 5px solid green;
+}
